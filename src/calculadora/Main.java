@@ -17,4 +17,8 @@ public class Main {
     public void division(){
         System.out.println("Metodo para dividir");
     }
+
+    public void multiplicacion(){
+        System.out.println("Metodo para multiplicar");
+    }
 }
